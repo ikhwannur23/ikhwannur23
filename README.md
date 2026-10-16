@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hai,%20I'm%20Ikhwan%20Nur%20Arifiyanto&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Graphic+Designer;Digital+Creative;Web+Enthusiast;Visual+Content+Creator;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Graphic+Designer;Digital+Creative;Web+Enthusiast;Visual+Content+Creator;Always+Learning+Something+New" />
 *Turning Ideas into Impact*
 
 [![Portfolio](https://img.shields.io/badge/ikhwan.com.pk-6e40c9?style=flat-square&logo=google-chrome&logoColor=white)](https://ikhwannurarifiyanto.github.io/Portofolio-/)
